@@ -1,0 +1,15 @@
+C:\Users\stud305\source\repos\System Machine Tools\System Machine Tools\bin\Debug\System Machine Tools.exe.config
+C:\Users\stud305\source\repos\System Machine Tools\System Machine Tools\bin\Debug\System Machine Tools.exe
+C:\Users\stud305\source\repos\System Machine Tools\System Machine Tools\bin\Debug\System Machine Tools.pdb
+C:\Users\stud305\source\repos\System Machine Tools\System Machine Tools\bin\Debug\EntityFramework.dll
+C:\Users\stud305\source\repos\System Machine Tools\System Machine Tools\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stud305\source\repos\System Machine Tools\System Machine Tools\bin\Debug\EntityFramework.xml
+C:\Users\stud305\source\repos\System Machine Tools\System Machine Tools\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stud305\source\repos\System Machine Tools\System Machine Tools\obj\Debug\System Machine Tools.csprojAssemblyReference.cache
+C:\Users\stud305\source\repos\System Machine Tools\System Machine Tools\obj\Debug\System_Machine_Tools.Form1.resources
+C:\Users\stud305\source\repos\System Machine Tools\System Machine Tools\obj\Debug\System_Machine_Tools.Properties.Resources.resources
+C:\Users\stud305\source\repos\System Machine Tools\System Machine Tools\obj\Debug\System Machine Tools.csproj.GenerateResource.cache
+C:\Users\stud305\source\repos\System Machine Tools\System Machine Tools\obj\Debug\System Machine Tools.csproj.CopyComplete
+C:\Users\stud305\source\repos\System Machine Tools\System Machine Tools\obj\Debug\System Machine Tools.exe
+C:\Users\stud305\source\repos\System Machine Tools\System Machine Tools\obj\Debug\System Machine Tools.pdb
+C:\Users\stud305\source\repos\System Machine Tools\System Machine Tools\obj\Debug\System_Machine_Tools.Authorization.resources
